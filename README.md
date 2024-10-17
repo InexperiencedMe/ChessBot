@@ -1,0 +1,2 @@
+# ChessBot
+Automatic chess bot
